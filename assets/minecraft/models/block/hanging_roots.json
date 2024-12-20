@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/bushy_inverted",
+  "textures": {
+    "cross": "minecraft:block/hanging_roots",
+    "bushy": "minecraft:block/hanging_roots"
+  }
+}

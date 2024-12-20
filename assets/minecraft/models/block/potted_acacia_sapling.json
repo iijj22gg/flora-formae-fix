@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/bushy_potted_bipyramid",
+  "textures": {
+    "cross": "minecraft:block/acacia_sapling"
+  }
+}
