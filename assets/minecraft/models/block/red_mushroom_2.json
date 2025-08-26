@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Created by Zecryt using Blockbench",
 	"textures": {
 		"1": "block/red_mushroom_model",
@@ -35,8 +36,7 @@
 				"east": {"uv": [8, 12, 12, 14], "texture": "#1"},
 				"south": {"uv": [4, 12, 8, 14], "texture": "#1"},
 				"west": {"uv": [0, 12, 4, 14], "texture": "#1"},
-				"up": {"uv": [12, 8, 16, 12], "texture": "#1"},
-				"down": {"uv": [0, 0, 4, 4], "texture": "#missing"}
+				"up": {"uv": [12, 8, 16, 12], "texture": "#1"}
 			}
 		},
 		{
@@ -69,8 +69,7 @@
 				"east": {"uv": [8, 12, 11, 14], "texture": "#1"},
 				"south": {"uv": [4, 12, 7, 14], "texture": "#1"},
 				"west": {"uv": [0, 12, 3, 14], "texture": "#1"},
-				"up": {"uv": [12, 8, 15, 11], "texture": "#1"},
-				"down": {"uv": [0, 0, 4, 4], "texture": "#missing"}
+				"up": {"uv": [12, 8, 15, 11], "texture": "#1"}
 			}
 		}
 	],

@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Created by Zecryt using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
@@ -29,8 +30,7 @@
 			"rotation": {"angle": 45, "axis": "z", "origin": [8, -1, 0]},
 			"faces": {
 				"east": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
-				"down": {"uv": [0, 0, 0, 16], "texture": "#missing"}
+				"west": {"uv": [0, 0, 16, 16], "texture": "#leaves"}
 			}
 		},
 		{
@@ -39,8 +39,7 @@
 			"rotation": {"angle": -45, "axis": "z", "origin": [8, -1, 0]},
 			"faces": {
 				"east": {"uv": [16, 0, 0, 16], "texture": "#leaves"},
-				"west": {"uv": [16, 0, 0, 16], "texture": "#leaves"},
-				"down": {"uv": [0, 0, 0, 16], "texture": "#missing"}
+				"west": {"uv": [16, 0, 0, 16], "texture": "#leaves"}
 			}
 		},
 		{
@@ -49,7 +48,8 @@
 			"rotation": {"angle": -45, "axis": "x", "origin": [16, -1, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#leaves"}			}
+				"south": {"uv": [0, 0, 16, 16], "texture": "#leaves"}
+			}
 		},
 		{
 			"from": [0, -1, 8],
@@ -57,7 +57,8 @@
 			"rotation": {"angle": 45, "axis": "x", "origin": [16, -1, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#leaves"}			}
+				"south": {"uv": [0, 0, 16, 16], "texture": "#leaves"}
+			}
 		}
 	],
 	"groups": [

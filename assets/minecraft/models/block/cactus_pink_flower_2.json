@@ -1,6 +1,9 @@
 {
-    "parent": "minecraft:block/cactus_with_flower_side",
-    "textures": {
-      "flower": "minecraft:block/cactus_flower_1"
-    }
+  "parent": "minecraft:block/cactus_with_flower_side",
+  "textures": {
+    "flower": "minecraft:block/bits_n_bobs"
+  },
+  "__atlas_remap__": {
+    "flower": "cactus_flower_1.png"
   }
+}

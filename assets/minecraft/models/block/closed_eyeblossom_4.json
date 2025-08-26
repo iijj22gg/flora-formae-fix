@@ -1,8 +1,10 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Created by Zecryt using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
 		"1": "block/closed_eyeblossom_head",
+		"particle": "block/closed_eyeblossom_stem",
 		"cross": "block/closed_eyeblossom_stem"
 	},
 	"elements": [
@@ -68,8 +70,7 @@
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [13, 5, 12]},
 			"faces": {
 				"east": {"uv": [5, 4, 11, 10], "texture": "#1"},
-				"west": {"uv": [5, 4, 11, 10], "texture": "#1"},
-				"down": {"uv": [0, 0, 0, 4], "texture": "#missing"}
+				"west": {"uv": [5, 4, 11, 10], "texture": "#1"}
 			}
 		},
 		{
@@ -197,8 +198,7 @@
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [12, 2, 1]},
 			"faces": {
 				"east": {"uv": [5, 4, 11, 10], "texture": "#1"},
-				"west": {"uv": [5, 4, 11, 10], "texture": "#1"},
-				"down": {"uv": [0, 0, 0, 4], "texture": "#missing"}
+				"west": {"uv": [5, 4, 11, 10], "texture": "#1"}
 			}
 		},
 		{
@@ -326,8 +326,7 @@
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [3, 3, 12]},
 			"faces": {
 				"east": {"uv": [5, 4, 11, 10], "texture": "#1"},
-				"west": {"uv": [5, 4, 11, 10], "texture": "#1"},
-				"down": {"uv": [0, 0, 0, 4], "texture": "#missing"}
+				"west": {"uv": [5, 4, 11, 10], "texture": "#1"}
 			}
 		},
 		{
@@ -455,8 +454,7 @@
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [2, 5, 2]},
 			"faces": {
 				"east": {"uv": [5, 4, 11, 10], "texture": "#1"},
-				"west": {"uv": [5, 4, 11, 10], "texture": "#1"},
-				"down": {"uv": [0, 0, 0, 4], "texture": "#missing"}
+				"west": {"uv": [5, 4, 11, 10], "texture": "#1"}
 			}
 		},
 		{

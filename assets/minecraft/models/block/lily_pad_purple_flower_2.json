@@ -1,6 +1,9 @@
 {
   "parent": "minecraft:block/lily_pad_with_flower_2",
   "textures": {
-    "flower": "minecraft:block/lily_pad_flower_3"
+    "flower": "minecraft:block/bits_n_bobs"
+  },
+  "__atlas_remap__": {
+    "flower": "lily_pad_flower_3.png"
   }
 }
